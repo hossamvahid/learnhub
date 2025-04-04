@@ -1,0 +1,6 @@
+@learnhub_be_HostAddress = http://localhost:5047
+
+GET {{learnhub_be_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
